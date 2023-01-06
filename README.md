@@ -3,7 +3,7 @@
 <h3 align="center">#Here_To_Enjoy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fr0z3nn&label=Profile%20views&color=0e75b6&style=flat" alt="Fr0z3nn" /> </p>
 
-- 🍒 New Discord Server - https://discord.gg/FRHub
+- 🍒 New Discord Server - https://dsc.gg/frhub
 
 - 👨‍💻 Small projects available at - [https://github.com/Fr00z3n?tab=repositories](https://github.com/Fr00z3n?tab=repositories)
 
